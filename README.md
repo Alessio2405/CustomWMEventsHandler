@@ -38,6 +38,6 @@ The project consists of two main components:
 
 ## Author
 
-- [Your Name](https://github.com/Alessio2405)
+- (https://github.com/Alessio2405)
 
 Feel free to fork this project, modify it, and use it according to your needs!
